@@ -1,15 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcf7b6cc-944c-46fa-a839-7fd1b1742024" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-helloword/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-helloword/01-helloword.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$USER_HOME$/idea/maven-3.6.3/repository" />
-        <option name="mavenHome" value="$USER_HOME$/idea/maven-3.6.3" />
-        <option name="userSettingsFile" value="$USER_HOME$/idea/maven-3.6.3/conf/settings.xml" />
+        <option name="localRepository" value="$PROJECT_DIR$/../idea/maven-3.6.3/repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../idea/maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../idea/maven-3.6.3/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1arF24pd09EyG3JQdmg7gkp4WdF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcf7b6cc-944c-46fa-a839-7fd1b1742024" name="Default Changelist" comment="" />
+      <created>1587485595570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587485595570</updated>
+      <workItem from="1587485596730" duration="337000" />
+      <workItem from="1587486025118" duration="169000" />
+    </task>
+    <task id="LOCAL-00001" summary="springboot第一次提交">
+      <created>1587485759081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587485759081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springboot第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="springboot第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="287" y="23" key="CommitChangelistDialog2" timestamp="1587485758719">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="287" y="23" key="CommitChangelistDialog2/0.23.1440.798@0.23.1440.798" timestamp="1587485758719" />
+    <state x="668" y="237" key="Github.ShareDialog" timestamp="1587486149564">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="668" y="237" key="Github.ShareDialog/0.23.1440.798@0.23.1440.798" timestamp="1587486149564" />
   </component>
 </project>
