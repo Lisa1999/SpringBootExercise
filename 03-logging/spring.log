@@ -1,0 +1,22 @@
+2020-04-22 21:33:06.503  INFO 49908 --- [main] com.atguigu.springboot.ApplicationTests  : Starting ApplicationTests on guoyuhangdeMacBook-Pro.local with PID 49908 (started by guoyuhang in /Users/guoyuhang/IdeaProjects/03-logging)
+2020-04-22 21:33:06.504 DEBUG 49908 --- [main] com.atguigu.springboot.ApplicationTests  : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-22 21:33:06.504  INFO 49908 --- [main] com.atguigu.springboot.ApplicationTests  : No active profile set, falling back to default profiles: default
+2020-04-22 21:33:07.382  INFO 49908 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-22 21:33:07.611  INFO 49908 --- [main] com.atguigu.springboot.ApplicationTests  : Started ApplicationTests in 1.551 seconds (JVM running for 2.296)
+2020-04-22 21:33:07.747 TRACE 49908 --- [main] com.atguigu.springboot.ApplicationTests  : trace日志。。。
+2020-04-22 21:33:07.747 DEBUG 49908 --- [main] com.atguigu.springboot.ApplicationTests  : debug日志。。。
+2020-04-22 21:33:07.747  INFO 49908 --- [main] com.atguigu.springboot.ApplicationTests  : info日志。。。
+2020-04-22 21:33:07.747  WARN 49908 --- [main] com.atguigu.springboot.ApplicationTests  : warn日志。。。
+2020-04-22 21:33:07.748 ERROR 49908 --- [main] com.atguigu.springboot.ApplicationTests  : error日志。。。
+2020-04-22 21:33:07.756  INFO 49908 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-22===[main] ====INFO  com.atguigu.springboot.ApplicationTests - Starting ApplicationTests on guoyuhangdeMacBook-Pro.local with PID 53013 (started by guoyuhang in /Users/guoyuhang/IdeaProjects/03-logging)
+2020-04-22===[main] ====DEBUG com.atguigu.springboot.ApplicationTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-22===[main] ====INFO  com.atguigu.springboot.ApplicationTests - No active profile set, falling back to default profiles: default
+2020-04-22===[main] ====INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-22===[main] ====INFO  com.atguigu.springboot.ApplicationTests - Started ApplicationTests in 1.389 seconds (JVM running for 2.095)
+2020-04-22===[main] ====TRACE com.atguigu.springboot.ApplicationTests - trace日志。。。
+2020-04-22===[main] ====DEBUG com.atguigu.springboot.ApplicationTests - debug日志。。。
+2020-04-22===[main] ====INFO  com.atguigu.springboot.ApplicationTests - info日志。。。
+2020-04-22===[main] ====WARN  com.atguigu.springboot.ApplicationTests - warn日志。。。
+2020-04-22===[main] ====ERROR com.atguigu.springboot.ApplicationTests - error日志。。。
+2020-04-22===[SpringContextShutdownHook] ====INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
